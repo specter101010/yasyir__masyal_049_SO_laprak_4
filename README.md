@@ -42,5 +42,5 @@
     <li>
     Menjalankan Perintah Kompleks dan Mengamati Hasilnya. Output dari who diurutkan, diformat, dan ditampilkan sebagian di layar.
   </li>
-  <img src="no6 dan 7.png" widht="300px">
+  <img src="Screenshot 2025-02-22 003040.png" widht="300px">
 </ol>
